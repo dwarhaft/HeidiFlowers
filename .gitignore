@@ -5,6 +5,7 @@
 ## User settings
 xcuserdata/
 
+/HeidiFlowers/Flowers.mlmodel
 ## Obj-C/Swift specific
 *.hmap
 
