@@ -2,10 +2,12 @@
 #
 # gitignore contributors: remember to update Global/Xcode.gitignore, Objective-C.gitignore & Swift.gitignore
 
+
+/Flowers.mlmodel
+
 ## User settings
 xcuserdata/
 
-/HeidiFlowers/Flowers.mlmodel
 ## Obj-C/Swift specific
 *.hmap
 
